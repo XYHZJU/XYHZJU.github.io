@@ -22,10 +22,8 @@ Besides deep learning, I am also interested in multi-agent system. I took course
 
 Other Backgrounds
 -----
-you can take a look at my education background, research projects, course projects and other experiences from my <a href = "https://github.com/XYHZJU/XYHZJU.github.io/files/Resume_New.pdf" target="_blank">CV</a>.
+you can take a look at my education background, research projects, course projects and other experiences from my <a href = "files/Resume_New.pdf">CV</a>.
 
-
-<object data="https://github.com/XYHZJU/XYHZJU.github.io/files/Resume_New.pdf" type="application/pdf" width="100%" height="100%"> <embed src="https://github.com/XYHZJU/XYHZJU.github.io/files/Resume_New.pdf" type="application/pdf" /> </object>
 
 Personal Hobbies
 -----
