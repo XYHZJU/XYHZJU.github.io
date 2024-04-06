@@ -24,6 +24,9 @@ Other Backgrounds
 -----
 you can take a look at my education background, research projects, course projects and other experiences from my <a href = "https://github.com/XYHZJU/XYHZJU.github.io/files/Resume_New.pdf" target="_blank">CV</a>.
 
+
+<object data="[pdf文件地址](https://github.com/XYHZJU/XYHZJU.github.io/files/Resume_New.pdf)" type="application/pdf" width="100%" height="100%"> <embed src="[pdf文件地址](https://github.com/XYHZJU/XYHZJU.github.io/files/Resume_New.pdf)" type="application/pdf" /> CV </object>
+
 Personal Hobbies
 -----
 I like travelling, reading and photographing very much. For sports, I like to play tennis and football, and also I am a big football fan!
