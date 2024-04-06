@@ -21,7 +21,7 @@ repository               : "XYHZJU/XYHZJU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me_new.png"
   name             : "Yuhan Xie"
   pronouns         : # example: "she/her"  
   bio              : "A master student from KTH, interested in machine learning, time series, self-supervised learning and robotics"
