@@ -9,7 +9,7 @@ redirect_from:
 
 I am a master student from KTH Royal Institute of Technology in the program of Master of System, Control and Robotics (my academic email in KTH: <a href="mailto:yuhanx@kth.se">yuhanx@kth.se</a>) from 2022 through the 3+2 program between Zhejiang University and KTH, and expect to graduate in July 2024. Currently I am doing my master thesis in EPFL (my academic email in EPFL: <a href="mailto:yuhan.xie@epfl.ch">yuhan.xie@epfl.ch</a>) , lab [LTS4](https://www.epfl.ch/labs/lts4/).
 
-In 2023, I obtained my bachelor degree in Automation in Zhejiang University with the honor of "outstanding graduate students", my bachelor thesis is about long-term forecastiing of the burn through point in the sintering process by deep learning method, supervised by [Prof. Xinmin Zhang](https://scholar.google.com/citations?hl=zh-CN&user=1M8fnscAAAAJ&view_op=list_works&sortby=pubdate). During my bachelors, I am also interested in the RoboCup competition. I was a team member of the [ZJUNlict](https://github.com/ZJUNlict) from Autumn 2021 to summer 2022.
+In 2023, I obtained my bachelor degree in Automation in Zhejiang University with the honor of "outstanding graduate students", my bachelor thesis is about long-term forecastiing of the burn through point in the sintering process by deep learning method, supervised by [Prof. Xinmin Zhang](https://scholar.google.com/citations?hl=zh-CN&user=1M8fnscAAAAJ&view_op=list_works&sortby=pubdate). During my bachelors, I am also interested in the RoboCup competition. I was a team member of the [ZJUNlict](https://github.com/ZJUNlict) from Autumn 2021 to Summer 2022.
 
 In the same year, I was nominated the KTH-One-Year-Scholarship, and went to EPFL from the Autumn 2023 through the SEMP exchange program. I joined LTS4 as a project student, and finished my semester project with [William Cappelletti](https://williamcappelletti.github.io/) on graph representation learning for epilepsy diagnosis. My master thesis is about improving the alignment between self-supervised learning task and downstream tasks in time series, supervised by [Prof. Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/) (thesis superviser from EPFL) and [Prof. Cristian Rojas](https://www.kth.se/profile/crro) (thesis examiner from KTH). 
 
@@ -26,7 +26,7 @@ you can take a look at my education background, research projects, course projec
 
 Personal Hobbies
 -----
-I like travelling, reading and photographing very much. For sports, I like to play tennis and football, and also I am a big football fan :large_blue_circle::red_circle: !
+I like travelling, reading and photographing very much. For sports, I like to play tennis and football, and also I am a big football fan!
 
 News
 -----
