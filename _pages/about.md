@@ -31,7 +31,7 @@ I like travelling, reading and photographing very much. For sports, I like to pl
 
 News
 -----
-- *2024.03*: My the work of my semester project with William [Learning Self-Supervised Dynamic Networks for Seizure Analysis](https://openreview.net/forum?id=S523wIxRTe) was accpeted by the ICLR Workshop of TS4H!
+- *2024.03*: My work of my semester project with William [Learning Self-Supervised Dynamic Networks for Seizure Analysis](https://openreview.net/forum?id=S523wIxRTe) was accpeted by the ICLR Workshop of TS4H!
 - *2024.02*: Passed the doctoral admission committee of EDEE@EPFL!
 - *2023.09*: Start the master exchange in EPFL
 - *2023.06*: Graduate from Zhejiang University!
