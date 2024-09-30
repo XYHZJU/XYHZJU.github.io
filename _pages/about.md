@@ -31,8 +31,9 @@ I like travelling, reading and photographing very much. For sports, I like to pl
 
 News
 -----
-- *2024.08*: My work of my bachelor thesis with Bocun EnvFormer: A Decomposition-based Transformer for Multi-step Burn-through Point Prediction in Sintering Process was accepted by IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT!
-- *2024.06*: I will join [EPFL INL lab](https://www.epfl.ch/labs/inl/) as an research intern!
+- *2024.08*: My work of my bachelor thesis with Bocun [EnvFormer: A Decomposition-based Transformer for Multi-step Burn-through Point Prediction in Sintering Process](https://ieeexplore.ieee.org/document/10699388) was accepted by IEEE TIM!
+- *2024.08*: I am joining [EPFL INL lab](https://www.epfl.ch/labs/inl/) as an research intern!
+- *2024.08*: I have defended my master thesis "Improving Self-Supervised Learning on Time Series Classification".
 - *2024.03*: My work of my semester project with William [Learning Self-Supervised Dynamic Networks for Seizure Analysis](https://openreview.net/forum?id=S523wIxRTe) was accepted by the ICLR Workshop of TS4H!
 - *2024.02*: Passed the doctoral admission committee of EDEE@EPFL!
 - *2023.09*: Start the master exchange in EPFL
