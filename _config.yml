@@ -24,11 +24,11 @@ author:
   avatar           : "me_new.png"
   name             : "Yuhan Xie"
   pronouns         : # example: "she/her"  
-  bio              : "A master student from KTH, interested in machine learning, time series, self-supervised learning and robotics"
-  location         : "Lausanne"
-  employer         : "KTH"
+  bio              : "A PhD student from EPFL, interested in machine learning, time series, self-supervised learning and brain machine interface"
+  location         : "Geneva"
+  employer         : "EPFL"
   uri              : # URL
-  email            : "xyhzju@outlook.com" 
+  email            : "yuhan.xie@epfl.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
