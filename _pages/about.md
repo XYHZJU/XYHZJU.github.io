@@ -30,6 +30,8 @@ I like travelling, reading and photographing very much. For sports, I like to pl
 
 News
 -----
+- *2026.07*: Our paper on robust ECoG-based motor decoding is presented as an oral session in EMBC 2026 in Toronto.
+- *2026.06*: Our decoder chip paper is accepted by VLSI 2026:[A 64-Channel, Low-Power End-to-End Transformer-Based BCI SoC for Efficient Motion Intention Decoding](https://ieeexplore.ieee.org/abstract/document/11577436).
 - *2025.12*: Glad to share that I have passed the candidacy exam and become a Ph.D. candidate!
 - *2025.09*: Check our paper on domain adaptation for industrial time series: [Deep Transfer Learning Based on Weighted Feature Alignment and Its Application to Industrial Quality Prediction](https://ieeexplore.ieee.org/abstract/document/11195857/).
 - *2025.08*: Check my paper on semi-supervised time series representation learning with Neural Collapse: [rETF-semiSL: Semi-Supervised Learning for Neural Collapse in Temporal Data](https://arxiv.org/abs/2508.10147).
@@ -46,4 +48,4 @@ News
   
 My Visiters
 -----
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Phx6n-CYxchUKNwMBjNpjNlx_yxcICVsUNXEywQIObQ'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=WnKxDLauZAXGIrwJpQphLsIXrNF9a6o_JBvlhP_s22M&cl=ffffff&w=a"></script>
